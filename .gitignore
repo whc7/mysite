@@ -1,4 +1,7 @@
 #Idea work files
 .idea/misc.xml
 .idea/workspace.xml
-
+#Data files
+db.sqlite3
+#Python cache files
+mysite/__pycache__/*.*
